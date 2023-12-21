@@ -6,7 +6,7 @@ These are real world complaints received about financial products and services. 
 The dataset contains different information of complaints that customers have made about a multiple products and services in the financial sector, such us Credit Reports, Student Loans, Money Transfer, etc.
 
 # Business task intro
- We’re working in the banking system. Our team has decided to help enhancing support team processes in terms of dealing with customer complaints. We need to analyze what type of questions and complains have been sent regarding to loans and money transfers and categorize them so support team will have a better understanding on what complains types they can focus on in first place to start creating their FAQ.
+ We’re working in the banking system. Our team has decided to help enhancing support team processes in terms of dealing with customer complaints. We need to analyze what type of questions and complains have been sent regarding to loans and money transfers and categorize them so support team will have a better understanding on what complaints types they can focus on in first place to start creating their FAQ.
 
 ## Steps
 
@@ -19,5 +19,5 @@ The dataset contains different information of complaints that customers have mad
 
 ## Participants
 
-Team lead: Arina Sitnikova
+Team lead: Arina Sitnikova<br>
 Team members: Anton Moiseev, Aleksandr Arkhipov, Rami Awadallah, Kseniya Gormash, Joshua Norfolk, Priyangka Roy

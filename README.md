@@ -19,5 +19,5 @@ The dataset contains different information of complaints that customers have mad
 
 ## Participants
 
-Team lead: Arina Sitnikova<br>
+Team lead: Arina Sitnikova <br>
 Team members: Anton Moiseev, Aleksandr Arkhipov, Rami Awadallah, Kseniya Gormash, Joshua Norfolk, Priyangka Roy
